@@ -1,23 +1,23 @@
 const bounties = [
   {
     title: "Bounty Group 01",
-    price: "$000 PLACEHOLDER",
-    description: "Placeholder description for the first grouped bounty. Replace this text with the details you want shown on the board.",
+    price: "$350 PLACEHOLDER",
+    description: "Bedroom windows are just a way to block out the world and hide.",
     tags: ["Grouped", "Two Photos", "Editable"],
     images: ["assets/images/side-view.jpg", "assets/images/front-view.jpg"]
   },
   {
     title: "Bounty 02",
-    price: "$000 PLACEHOLDER",
-    description: "Placeholder description for the second bounty. Change this price, title, tags, and text inside this file.",
-    tags: ["Single Photo", "Placeholder", "Editable"],
+    price: "$150 PLACEHOLDER",
+    description: "License plates are a pain right?",
+    tags: ["Cyraxx"],
     images: ["assets/images/vehicle-view.jpg"]
   },
   {
     title: "Bounty 03",
-    price: "$000 PLACEHOLDER",
-    description: "Placeholder description for the third bounty. Replace this with the description you want on GitHub Pages.",
-    tags: ["Single Photo", "Placeholder", "Editable"],
+    price: "$150 PLACEHOLDER",
+    description: "This is Peters shack, tiny right?",
+    tags: ["Peter"],
     images: ["assets/images/street-view.jpg"]
   }
 ];
