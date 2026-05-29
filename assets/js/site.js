@@ -3,7 +3,7 @@ const bounties = [
     title: "Bounty Group 01",
     price: "$350 PLACEHOLDER",
     description: "Bedroom windows are just a way to block out the world and hide.",
-    tags: ["Grouped", "Two Photos", "Editable"],
+    tags: ["Cyraxx"],
     images: ["assets/images/side-view.jpg", "assets/images/front-view.jpg"]
   },
   {
