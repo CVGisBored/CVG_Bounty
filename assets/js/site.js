@@ -1,20 +1,20 @@
 const bounties = [
   {
-    title: "Bounty Group 01",
+    title: "Windows",
     price: "$350 PLACEHOLDER",
     description: "Bedroom windows are just a way to block out the world and hide.",
     tags: ["Cyraxx"],
     images: ["assets/images/side-view.jpg", "assets/images/front-view.jpg"]
   },
   {
-    title: "Bounty 02",
+    title: "Car/Plates",
     price: "$150 PLACEHOLDER",
     description: "License plates are a pain right?",
     tags: ["Cyraxx"],
     images: ["assets/images/vehicle-view.jpg"]
   },
   {
-    title: "Bounty 03",
+    title: "Bevy Ct",
     price: "$150 PLACEHOLDER",
     description: "This is Peters shack, tiny right?",
     tags: ["Peter"],
